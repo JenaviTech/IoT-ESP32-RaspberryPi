@@ -3,7 +3,7 @@
 **Description:**  
 This project demonstrates the design of an IoT system using ESP32 microcontrollers and Raspberry Pi for real-time sensing and control. The system leverages **MQTT protocol** for lightweight communication and **FreeRTOS** for efficient task scheduling, enabling responsive, energy-efficient operation suitable for smart sensing applications and remote monitoring.
 
-![IoT System Architecture](iot-esp32-raspberrypi.png)
+![IoT System Architecture](./iot-esp32-raspberrypi.png)
 
 *Conceptual diagram showing the IoT system with ESP32 nodes communicating to a Raspberry Pi gateway via MQTT.*
 **Technologies & Tools:**  
